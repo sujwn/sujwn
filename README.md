@@ -30,4 +30,4 @@ An experienced **Backend Developer** with 5+ years of experience in developing a
 ![orie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujwn&show_icons=true&theme=tokyonight)
 -->
 
-✉️ For work-related inquiries, you can contact me at suhlani.juwan@gmail.com
+✉️ For work-related inquiries, please contact me at suhlani.juwan@gmail.com
