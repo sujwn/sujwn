@@ -19,7 +19,7 @@ An experienced **Backend Developer** with 5+ years of experience in developing a
 - Technical Decision Making
 
 ### Language & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,expressjs,nodejs,npm,laravel,go,postgresql,mongodb,mysql,redis,postman,git,github,aws)](https://www.linkedin.com/in/harisw/details/skills/)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,expressjs,npm,laravel,go,postgresql,mongodb,mysql,redis,postman,git,github,aws)](https://www.linkedin.com/in/harisw/details/skills/)
 
 <!--
 ### My Github Stats
