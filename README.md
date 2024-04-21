@@ -19,7 +19,7 @@ A **Backend Developer** with 5+ years of experience in developing and maintainin
 - Technical Decision Making
 
 ### Language & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,expressjs,npm,laravel,go,postgresql,mongodb,mysql,redis,postman,git,github,aws)](https://www.linkedin.com/in/suju/details/skills/)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,expressjs,npm,laravel,go,postgresql,mongodb,mysql,redis,postman,git,github,docker,aws)](https://www.linkedin.com/in/suju/details/skills/)
 
 <!--
 ### My Github Stats
