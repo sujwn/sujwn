@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Suhlani Juwan 
-A **Backend Developer** with 5+ years of experience in developing and maintaining high-performance systems.
+I'm a **Backend Developer** passionate about building scalable and efficient systems. With experience in various backend technologies and cloud services, I enjoy solving complex problems and optimizing performance. My expertise includes designing APIs, working with databases, and implementing robust solutions for web applications.
 
 ## About Me
 
