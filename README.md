@@ -34,5 +34,5 @@ I'm a **Backend Developer** passionate about building scalable and efficient sys
 ---
 ✉️ For work-related inquiries, please contact me at suhlani.juwan@gmail.com
 
-🌐 Or visit my portfolio website sujwn.github.io
+🌐 Visit my portfolio website [sujwn.github.io](https://sujwn.github.io)
 <br>
